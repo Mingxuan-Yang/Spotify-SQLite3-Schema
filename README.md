@@ -1,5 +1,7 @@
 # Creating a SQLite3 Schema Using Spotify Dataset
 
+*Project Date: 2020-10-07*
+
 ## Introduction
 
 This blog is to create a SQLite3 schema to store [Spotify Songs Dataset](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-01-21/readme.md). This schema should follow the [normalization](https://en.wikipedia.org/wiki/Database_normalization) rule to reduce data redundancy and prevent inconsistencies on insertion, update and deletion. Normalization design technique divides large tables into smaller pieces and uses some relationships to connect them. The main normal forms applied in this project are First normal form (1NF), Second normal form (2NF) and Third normal form (3NF). They are defined as
