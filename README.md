@@ -44,7 +44,7 @@ The relationships between these tables can be visualized below.
 
 ## Create a SQLite3 schema
 
-To transform pandas DataFrames into SQLite tables, the package **sqlite3** can be applied for implementation. The codes are shown in [the jupyter notebook](./Spotify SQLite3 Schema.ipynb).
+To transform pandas DataFrames into SQLite tables, the package **sqlite3** can be applied for implementation. The codes are shown in [the jupyter notebook](./Spotify_SQLite3_Schema.ipynb).
 
 ## Problem Solution
 
